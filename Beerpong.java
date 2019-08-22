@@ -29,7 +29,8 @@ public class Beerpong {
             }
         }
 
-    }
+    } 
+    System.out.println(" oh oh no more bottles on the wall, sorry ");
          //end else
     }//end while loop
 //end main method
